@@ -1,4 +1,4 @@
-# Heart Disease Prediction using Machine Learning
+# Python Heart Disease Prediction Project
 
 ## Project Description
 
@@ -7,7 +7,7 @@ This project is a machine learning-based approach to predict heart disease using
 ## Technologies and Libraries
 
 * **Python:** The core programming language.
-* **Jupyter Notebook:** The development environment used for the analysis.
+* **Google Colab:** The development environment used for the analysis.
 * **Pandas:** For data handling and analysis.
 * **Scikit-learn:** Used to build the machine learning model.
 
@@ -33,4 +33,4 @@ The model achieved an average accuracy of [Insert your average accuracy here fro
     ```
 2.  Navigate to the project directory.
 3.  Ensure you have Python and the required libraries installed.
-4.  Open the Jupyter Notebook file in your environment and run the cells sequentially to see the analysis and model in action.
+4.  Open the Google Colab file in your environment and run the cells sequentially to see the analysis and model in action.
